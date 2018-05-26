@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat May 26 11:34:48 BDT 2018
+1.base=C\:\\Users\\saifulalam\\AndroidStudioProjects\\TextLinkify\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\saifulalam\\AndroidStudioProjects\\TextLinkify\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+1.path=classes.dex
